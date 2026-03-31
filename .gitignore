@@ -1,0 +1,10 @@
+.venv/
+.idea/
+
+bin/dist/
+bin/build/
+bin/*.spec
+
+src/python/data.json
+src/python/previews/
+src/python/__pycache__/

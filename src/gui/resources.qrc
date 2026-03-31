@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/folder.png</file>
+    <file>icons/error_24dp_444746_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/delete_24dp_444746.png</file>
+    <file>icons/lock_24dp_444746.png</file>
+    <file>icons/perm_media_24dp_444746.png</file>
+    <file>icons/photo_24dp_444746.png</file>
+    <file>icons/settings_24dp_444746.png</file>
+    <file>icons/video_camera_back_24dp_444746.png</file>
+    <file>icons/edit_24dp_444746_FILL0_wght400_GRAD0_opsz24.png</file>
+  </qresource>
+</RCC>
